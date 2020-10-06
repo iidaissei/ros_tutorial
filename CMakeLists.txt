@@ -11,7 +11,7 @@ find_package(catkin REQUIRED COMPONENTS
   roscpp
   rospy
   std_msgs
-  generate_message
+  message_generation
 )
 
 ## System dependencies are found with CMake's conventions
